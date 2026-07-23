@@ -6,7 +6,7 @@ Exploring UK electricity demand using National Grid data and Meteostat weather o
 - National Grid ESO Open Data Portal – Half-hourly GB electricity demand data (2025).
 - Meteostat – Daily weather observations for Glasgow (2025).
 
-- ## Requirements
+## Requirements
 
 - Python 3.x
 - pandas

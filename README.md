@@ -41,7 +41,3 @@ Exploring UK electricity demand using National Grid data and Meteostat weather o
 Eilidh Anderson
 BSc Physics with Astrophysics
 Univeristy of Glasgow
-
-Eilidh Anderson
-Physics with Astrophysics
-University of Glasgow

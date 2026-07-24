@@ -19,6 +19,17 @@ Exploring UK electricity demand using National Grid data and Meteostat weather o
 - Lower temperatures relate to increased electricity demand.
 - Embedded solar generation follows daily and seasonal trends while embedded wind generation is irregular.
 
+## How to Run
+
+1. Clone or download this repository.
+2. Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the Jupyter Notebook and run all cells.
+
 ## Example Visualisations
 
 ### Electricity demand over time
@@ -38,6 +49,4 @@ Exploring UK electricity demand using National Grid data and Meteostat weather o
 - Analyse regional demand differences.
 
 ## Author
-Eilidh Anderson
-BSc Physics with Astrophysics
-Univeristy of Glasgow
+Eilidh Anderson | BSc Physics with Astrophysics | Univeristy of Glasgow

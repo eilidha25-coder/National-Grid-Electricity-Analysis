@@ -9,7 +9,7 @@ This project explores UK electricity demand using National Grid data and Meteost
 - Jupyter Notebook
 
 ## Data sources
-- National Grid ESO Open Data Portal – Half-hourly GB electricity demand data (2025).
+- National Grid ESO Open Data Portal – Half-hourly UK electricity demand data (2025).
 - Meteostat – Daily weather observations for Glasgow (2025).
 
 ## Key Findings

@@ -18,3 +18,30 @@ Exploring UK electricity demand using National Grid data and Meteostat weather o
 - Winter demand is generally higher than other seasons.
 - Lower temperatures relate to increased electricity demand.
 - Embedded solar generation follows daily and seasonal trends while embedded wind generation is irregular.
+
+## Example Visualisations
+
+### Electricity demand over time
+![Yearly demand](figures/yearly_demand.png)
+
+### Electricity demand vs temperature
+![Demand vs temperature](figures/demand_versus_temperature.png)
+
+### Embedded solar and wind generation over time
+![Embedded renewables over time](figures/monthly_renewables.png)
+
+### Ratio of national demand provided by embedded solar and wind generation
+![National demand and renewables ratio](figures/renewables_demand_ratio.png)
+
+## Future Improvements
+- Include total renewable generation data.
+- Analyse regional demand differences.
+
+## Author
+Eilidh Anderson
+BSc Physics with Astrophysics
+Univeristy of Glasgow
+
+Eilidh Anderson
+Physics with Astrophysics
+University of Glasgow
